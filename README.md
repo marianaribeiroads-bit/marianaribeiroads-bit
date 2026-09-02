@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou Mariana! 
 
-<!--
-**marianaribeiroads-bit/marianaribeiroads-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu perfil no GitHub! 
 
-Here are some ideas to get you started:
+## 🎯 Sobre Mim
+- 🎓 Estudante em constante aprendizado
+- 💡 Interesses em projetos de tecnologia e desenvolvimento
+- 📫 Como me encontrar: www.linkedin.com/in/mariana-ribeiro-6044491b5|marianaribeiroads@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades e Ferramentas
+- **Linguagens:** HTML, CSS, JavaScript, Python
+- **Ferramentas:** Git, GitHub, VS Code
+
+## 🚀 Projetos
+*(Adicione aqui links para os repositórios que você criar)*
