@@ -12,4 +12,4 @@ Bem-vindo(a) ao meu perfil no GitHub!
 - **Ferramentas:** Git, GitHub, VS Code
 
 ## 🚀 Projetos
-
+https://github.com/marianaribeiroads-bit/desafio-devops-lacrei
