@@ -14,4 +14,4 @@ Bem-vindo(a) ao meu perfil no GitHub!
 ## 🚀 Projetos
 https://github.com/marianaribeiroads-bit/desafio-devops-lacrei
 ## Objetivos: 
-Busco oportunidades de estágio e voluntariado para desenvolver as minhas habilidades m tecnologia e ganhar experiência prática.
+Busco oportunidades de estágio e voluntariado para desenvolver as minhas habilidades em tecnologia e ganhar experiência prática.
