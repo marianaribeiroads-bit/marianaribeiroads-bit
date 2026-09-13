@@ -12,6 +12,10 @@ Su estudante na área de TI em constante aprendizado. Tenho interesses em projet
 
 ## Projetos
 https://github.com/marianaribeiroads-bit/desafio-devops-lacrei
+
 https://www.figma.com/proto/gtzj4Je27hYbdUP4ZPkTyP/Prot%C3%B3tipo?node-id=3-61&t=JxTTR7qjuc4mIDgF-1
+
+https://www.figma.com/proto/B3OMuZCLnDXSzqqYsTBNV6/Projeto-VivaBem?node-id=0-1&t=DHDgzFDskDH0lsUk-1
+
 ## Objetivos: 
 Busco oportunidades de estágio e voluntariado para desenvolver as minhas habilidades em tecnologia e ganhar experiência prática.
